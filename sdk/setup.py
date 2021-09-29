@@ -49,7 +49,7 @@ setup(
     name='lusid-sdk-generated-preview',
     version=version['__version__'],
     description='Python Preview SDK for LUSID API',
-    url='https://github.com/finbourne/lusid-sdk-python-preview',
+    url='https://github.com/finbourne/lusid-sdk-python-generated-preview',
     author='FINBOURNE Technology',
     author_email='engineering@finbourne.com',
     license='MIT',
